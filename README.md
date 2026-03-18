@@ -3,6 +3,10 @@ Early detection of Alzheimer’s disease from structural MRI using deep learning
 
 Crear entorno conda:
 
+`module load conda`
+
+`conda --version`
+
 `conda create -n adni3d python=3.10`
 
 `source activate adni3d`
