@@ -1,0 +1,24 @@
+name: adni3d
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - scikit-image
+  - scikit-learn
+  - simpleitk
+  - nibabel
+  - pydicom
+  - tqdm
+  - jupyter
+  - ipykernel
+  - pip
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pip:
+      - monai
